@@ -1,5 +1,5 @@
 {
-    "rpcUrl": "https://devnet.helius-rpc.com/?api-key=b278868c-fb5e-4e46-909a-36c357322a05",
+    "rpcUrl": "http://127.0.0.1:8899",
     "maxSignatures": 2,
     "lamportsPerSignature": 10000,
     "corsOrigin": true,
