@@ -18,6 +18,12 @@
                     "account": "6qqaStXvBVtLB97XTfXc4dmL4e3HkVDBMGZMPNsP22wL",
                     "decimals": 9,
                     "fee": 50000
+                },
+                {
+                    "mint": "DUSD1cyF1TW98NNYWNvEe8ZLZVnCPkz5wtyCvLEDkhwb",
+                    "account": "CHAxwNBtJ3FTUkRCg9NcST9cRsyNmNtG1NKfhRKdf73z",
+                    "decimals": 9,
+                    "fee": 50000
                 }
             ]
         }
